@@ -1,0 +1,93 @@
+2014.07.04 13:44:17.800 CEST INFO: *** SYSTEM START ***
+2014.07.04 13:44:20.072 CEST WARNING: [Local Folder Repository] The specified file must be a directory. (C:\Users\Sousou\workspace\Annotateur\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.07.04 13:44:20.378 CEST WARNING: [Repository Manager] Could not find repository file: http://annotation-ontology.googlecode.com/svn/trunk/annotation.repository -- RepositoryFileManager.loadRepositoriesFromURI()
+2014.07.04 13:44:20.480 CEST INFO: Loading triples -- ProtegeOWLParser.loadTriples()
+2014.07.04 13:44:21.011 CEST INFO: Start processing ontology: http://annotation-ontology.googlecode.com/svn/trunk/annotation.owl Time: Fri Jul 04 13:44:21 CEST 2014 -- ProtegeOWLParser.loadTriples()
+2014.07.04 13:44:22.257 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/core/ (from http://purl.org/ao/core/ [actual ontology at this location: http://purl.org/ao/]) -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 13:44:23.327 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/pav/2.0/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 13:44:23.722 CEST WARNING: [ProtegeOWLParser] Warning: Conflicting prefix found dct:
+  Existing namespace: http://dublincore.org/documents/dcmi-terms/
+  New namespace: http://purl.org/dc/terms/ -- DefaultProtegeOWLParserLogger.logWarning()
+2014.07.04 13:44:24.146 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/annotea/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 13:44:24.510 CEST WARNING: [ProtegeOWLParser] Warning: Conflicting prefix found pav:
+  Existing namespace: http://purl.org/pav/
+  New namespace: http://swan.mindinformatics.org/ontologies/1.2/pav/ -- DefaultProtegeOWLParserLogger.logWarning()
+2014.07.04 13:44:24.897 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/selectors/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 13:44:25.737 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/types/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 13:44:26.526 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/foaf/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 13:44:26.881 CEST WARNING: [ProtegeOWLParser] Warning: Conflicting prefix found ann:
+  Existing namespace: http://purl.org/ao/core/
+  New namespace: http://purl.org/ao/ -- DefaultProtegeOWLParserLogger.logWarning()
+2014.07.04 13:44:27.713 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/swan/2.0/foaf-essential/ (from http://purl.org/swan/2.0/foaf-essential/ [actual ontology at this location: http://xmlns.com/foaf/0.1/]) -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 13:44:28.057 CEST WARNING: [ProtegeOWLParser] Warning: Conflicting prefix found dct:
+  Existing namespace: http://dublincore.org/documents/dcmi-terms/
+  New namespace: http://purl.org/dc/terms/ -- DefaultProtegeOWLParserLogger.logWarning()
+2014.07.04 13:44:28.199 CEST INFO: [ProtegeOWLParser] Completed triple loading after 7191 ms -- ProtegeOWLParser.loadTriples()
+2014.07.04 13:44:28.441 CEST INFO: [TripleChangePostProcessor] Completed lists after 1 ms -- TripleChangePostProcessor.log()
+2014.07.04 13:44:28.455 CEST INFO: [TripleChangePostProcessor] Completed anonymous classes after 13 ms -- TripleChangePostProcessor.log()
+2014.07.04 13:44:28.461 CEST INFO: [TripleChangePostProcessor] Completed deprecated classes after 6 ms -- TripleChangePostProcessor.log()
+2014.07.04 13:44:28.509 CEST INFO: [TripleChangePostProcessor] Completed properties after 48 ms -- TripleChangePostProcessor.log()
+2014.07.04 13:44:28.531 CEST INFO: [TripleChangePostProcessor] Completed named classes after 21 ms -- TripleChangePostProcessor.log()
+2014.07.04 13:44:28.538 CEST INFO: ... Loading completed after 7530 ms -- ProtegeOWLParser.loadTriples()
+2014.07.04 14:08:54.251 CEST INFO: *** SYSTEM START ***
+2014.07.04 14:08:56.678 CEST WARNING: [Local Folder Repository] The specified file must be a directory. (C:\Users\Sousou\workspace\Annotateur\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.07.04 14:08:56.992 CEST WARNING: [Repository Manager] Could not find repository file: http://annotation-ontology.googlecode.com/svn/trunk/annotation.repository -- RepositoryFileManager.loadRepositoriesFromURI()
+2014.07.04 14:08:57.089 CEST INFO: Loading triples -- ProtegeOWLParser.loadTriples()
+2014.07.04 14:08:57.620 CEST INFO: Start processing ontology: http://annotation-ontology.googlecode.com/svn/trunk/annotation.owl Time: Fri Jul 04 14:08:57 CEST 2014 -- ProtegeOWLParser.loadTriples()
+2014.07.04 14:08:58.894 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/core/ (from http://purl.org/ao/core/ [actual ontology at this location: http://purl.org/ao/]) -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:09:00.007 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/pav/2.0/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:09:00.385 CEST WARNING: [ProtegeOWLParser] Warning: Conflicting prefix found dct:
+  Existing namespace: http://dublincore.org/documents/dcmi-terms/
+  New namespace: http://purl.org/dc/terms/ -- DefaultProtegeOWLParserLogger.logWarning()
+2014.07.04 14:09:00.810 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/annotea/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:09:01.183 CEST WARNING: [ProtegeOWLParser] Warning: Conflicting prefix found pav:
+  Existing namespace: http://purl.org/pav/
+  New namespace: http://swan.mindinformatics.org/ontologies/1.2/pav/ -- DefaultProtegeOWLParserLogger.logWarning()
+2014.07.04 14:09:01.575 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/selectors/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:09:02.415 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/types/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:09:03.209 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/foaf/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:09:03.551 CEST WARNING: [ProtegeOWLParser] Warning: Conflicting prefix found ann:
+  Existing namespace: http://purl.org/ao/core/
+  New namespace: http://purl.org/ao/ -- DefaultProtegeOWLParserLogger.logWarning()
+2014.07.04 14:09:04.384 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/swan/2.0/foaf-essential/ (from http://purl.org/swan/2.0/foaf-essential/ [actual ontology at this location: http://xmlns.com/foaf/0.1/]) -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:09:04.742 CEST WARNING: [ProtegeOWLParser] Warning: Conflicting prefix found dct:
+  Existing namespace: http://dublincore.org/documents/dcmi-terms/
+  New namespace: http://purl.org/dc/terms/ -- DefaultProtegeOWLParserLogger.logWarning()
+2014.07.04 14:09:04.882 CEST INFO: [ProtegeOWLParser] Completed triple loading after 7264 ms -- ProtegeOWLParser.loadTriples()
+2014.07.04 14:09:05.123 CEST INFO: [TripleChangePostProcessor] Completed lists after 1 ms -- TripleChangePostProcessor.log()
+2014.07.04 14:09:05.137 CEST INFO: [TripleChangePostProcessor] Completed anonymous classes after 12 ms -- TripleChangePostProcessor.log()
+2014.07.04 14:09:05.143 CEST INFO: [TripleChangePostProcessor] Completed deprecated classes after 6 ms -- TripleChangePostProcessor.log()
+2014.07.04 14:09:05.194 CEST INFO: [TripleChangePostProcessor] Completed properties after 49 ms -- TripleChangePostProcessor.log()
+2014.07.04 14:09:05.214 CEST INFO: [TripleChangePostProcessor] Completed named classes after 20 ms -- TripleChangePostProcessor.log()
+2014.07.04 14:09:05.222 CEST INFO: ... Loading completed after 7604 ms -- ProtegeOWLParser.loadTriples()
+2014.07.04 14:15:51.183 CEST INFO: *** SYSTEM START ***
+2014.07.04 14:15:53.365 CEST WARNING: [Local Folder Repository] The specified file must be a directory. (C:\Users\Sousou\workspace\Annotateur\plugins\edu.stanford.smi.protegex.owl) -- LocalFolderRepository.update()
+2014.07.04 14:15:53.674 CEST WARNING: [Repository Manager] Could not find repository file: http://annotation-ontology.googlecode.com/svn/trunk/annotation.repository -- RepositoryFileManager.loadRepositoriesFromURI()
+2014.07.04 14:15:53.773 CEST INFO: Loading triples -- ProtegeOWLParser.loadTriples()
+2014.07.04 14:15:54.302 CEST INFO: Start processing ontology: http://annotation-ontology.googlecode.com/svn/trunk/annotation.owl Time: Fri Jul 04 14:15:54 CEST 2014 -- ProtegeOWLParser.loadTriples()
+2014.07.04 14:15:55.503 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/core/ (from http://purl.org/ao/core/ [actual ontology at this location: http://purl.org/ao/]) -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:15:56.596 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/pav/2.0/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:15:56.998 CEST WARNING: [ProtegeOWLParser] Warning: Conflicting prefix found dct:
+  Existing namespace: http://dublincore.org/documents/dcmi-terms/
+  New namespace: http://purl.org/dc/terms/ -- DefaultProtegeOWLParserLogger.logWarning()
+2014.07.04 14:15:57.434 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/annotea/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:15:57.801 CEST WARNING: [ProtegeOWLParser] Warning: Conflicting prefix found pav:
+  Existing namespace: http://purl.org/pav/
+  New namespace: http://swan.mindinformatics.org/ontologies/1.2/pav/ -- DefaultProtegeOWLParserLogger.logWarning()
+2014.07.04 14:15:58.212 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/selectors/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:15:59.052 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/types/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:15:59.797 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/ao/foaf/ -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:16:00.159 CEST WARNING: [ProtegeOWLParser] Warning: Conflicting prefix found ann:
+  Existing namespace: http://purl.org/ao/core/
+  New namespace: http://purl.org/ao/ -- DefaultProtegeOWLParserLogger.logWarning()
+2014.07.04 14:16:00.993 CEST INFO: [ProtegeOWLParser] Importing http://purl.org/swan/2.0/foaf-essential/ (from http://purl.org/swan/2.0/foaf-essential/ [actual ontology at this location: http://xmlns.com/foaf/0.1/]) -- DefaultProtegeOWLParserLogger.logImport()
+2014.07.04 14:16:01.347 CEST WARNING: [ProtegeOWLParser] Warning: Conflicting prefix found dct:
+  Existing namespace: http://dublincore.org/documents/dcmi-terms/
+  New namespace: http://purl.org/dc/terms/ -- DefaultProtegeOWLParserLogger.logWarning()
+2014.07.04 14:16:01.490 CEST INFO: [ProtegeOWLParser] Completed triple loading after 7190 ms -- ProtegeOWLParser.loadTriples()
+2014.07.04 14:16:01.734 CEST INFO: [TripleChangePostProcessor] Completed lists after 0 ms -- TripleChangePostProcessor.log()
+2014.07.04 14:16:01.748 CEST INFO: [TripleChangePostProcessor] Completed anonymous classes after 14 ms -- TripleChangePostProcessor.log()
+2014.07.04 14:16:01.755 CEST INFO: [TripleChangePostProcessor] Completed deprecated classes after 6 ms -- TripleChangePostProcessor.log()
+2014.07.04 14:16:01.803 CEST INFO: [TripleChangePostProcessor] Completed properties after 48 ms -- TripleChangePostProcessor.log()
+2014.07.04 14:16:01.826 CEST INFO: [TripleChangePostProcessor] Completed named classes after 22 ms -- TripleChangePostProcessor.log()
+2014.07.04 14:16:01.837 CEST INFO: ... Loading completed after 7537 ms -- ProtegeOWLParser.loadTriples()

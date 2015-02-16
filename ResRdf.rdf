@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:aof="http://purl.org/ao/foaf/"
+    xmlns:aos="http://purl.org/ao/selectors/"
+    xmlns:ao="http://purl.org/ao/"
+    xmlns:j.1="http://www.w3.org/2000/10/annotation-ns#"
+    xmlns:j.0="http://purl.org/ao/types/"
+    xmlns:pav="http://purl.org/pav/2.0/" > 
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/14">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/14"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/STY/T025"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/6">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/6"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/STY/T016"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/0">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>1</ao:offset>
+    <ao:exact>SEBORRHEIC KERATOSIS</ao:exact>
+    <ao:range>20</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/5">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>183</ao:offset>
+    <ao:exact>HUMAN</ao:exact>
+    <ao:range>5</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/3">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>240</ao:offset>
+    <ao:exact>KERATOSIS</ao:exact>
+    <ao:range>9</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/7">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>189</ao:offset>
+    <ao:exact>PAPILLOMA</ao:exact>
+    <ao:range>9</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/8">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/8"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D014780"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/14">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>384</ao:offset>
+    <ao:exact>CELL</ao:exact>
+    <ao:range>4</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/0">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/0"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D017492"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/8">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>199</ao:offset>
+    <ao:exact>VIRUS</ao:exact>
+    <ao:range>5</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/11">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/11"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D004194"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/10">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>209</ao:offset>
+    <ao:exact>REPORT</ao:exact>
+    <ao:range>6</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/4">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/4"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D009369"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/12">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>375</ao:offset>
+    <ao:exact>SQUAMOUS CELL CARCINOMA</ao:exact>
+    <ao:range>23</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/13">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/13"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D002477"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/2">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/2"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D007642"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/2">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>12</ao:offset>
+    <ao:exact>KERATOSIS</ao:exact>
+    <ao:range>9</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/1">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>229</ao:offset>
+    <ao:exact>SEBORRHEIC KERATOSIS</ao:exact>
+    <ao:range>20</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/4">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>66</ao:offset>
+    <ao:exact>TUMORS</ao:exact>
+    <ao:range>6</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/15">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>389</ao:offset>
+    <ao:exact>CARCINOMA</ao:exact>
+    <ao:range>9</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/6">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>183</ao:offset>
+    <ao:exact>HUMAN</ao:exact>
+    <ao:range>5</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/9">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/9"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/STY/T005"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/7">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/7"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D010212"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/15">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/15"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D002277"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/13">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>384</ao:offset>
+    <ao:exact>CELL</ao:exact>
+    <ao:range>4</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/1">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/1"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D017492"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/9">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>199</ao:offset>
+    <ao:exact>VIRUS</ao:exact>
+    <ao:range>5</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/10">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/10"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D058028"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/3">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/3"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D007642"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/5">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/5"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D006801"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/9715/12">
+    <rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+    <rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+    <aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+    <ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/9715/12"/>
+    <ao:hasTopic rdf:resource="http://purl.bioontology.org/ontology/MSH/D002294"/>
+    <pav:createdOn>26-11-14</pav:createdOn>
+    <pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/9715/11">
+    <rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+    <rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+    <ao:offset>348</ao:offset>
+    <ao:exact>DISEASE</ao:exact>
+    <ao:range>7</ao:range>
+    <aof:onDocument rdf:resource="http://data.bioontology.org/annotator?9715"/>
+  </rdf:Description>
+</rdf:RDF>
