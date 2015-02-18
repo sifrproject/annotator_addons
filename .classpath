@@ -6,52 +6,15 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src/Scoring"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/lib/json_simple.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/lib/json-simple-1.1.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/lib/java-json.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/lib/jettison-1.0-beta-1.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/lib/datanucleus-json-2.1.2.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/lib/org.apache.felix.webconsole-1.0.0.jar"/>
-	<classpathentry kind="lib" path="F:/M2 DECOL/Données complexs/lib_complet/pellet-jena.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/lib/jena.jar/jena.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/lib/ncbo/jackson-annotations-2.1.4(1).jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/lib/ncbo/jackson-core-2.1.4(1).jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/lib/ncbo/jackson-databind-2.1.4(1).jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/lib/apache-jena-2.7.4(1).tar.gz"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/antlr-2.7.5.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/arq.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/arq-extra.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/commons-lang-2.0.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/commons-logging-1.1.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/concurrent.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/edtftpj-1.5.2.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/ekitspell.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/icu4j_3_4.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/iri.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/jcalendar.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/jdom.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/jena.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/jep-2.4.0.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/jess.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/json.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/jsr94.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/junit.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/kazuki.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/lax.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/log4j-1.2.12.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/looks-2.1.3.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/lucene-core-2.0.0.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/owlsyntax.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/protege.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/protege-owl.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/stax-api-1.0.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/swrl-jess-bridge.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/unicode_panel.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/wstx-asl-3.0.0.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/xercesImpl.jar"/>
-	<classpathentry kind="lib" path="F:/MasterBCD/Stage/Code Clement/Protege Jars/Protege Jars/xml-apis.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sousou/Desktop/json-simple.jar.zip"/>
-	<classpathentry kind="lib" path="C:/Users/Sousou/Desktop/json-simple.jar/json-simple.jar"/>
-	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>
